@@ -20,3 +20,6 @@
 
 # IntelliJ
 /out/
+
+/ch02-jpa-start1/target
+/ch04-jpa-start2/target
